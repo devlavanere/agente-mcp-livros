@@ -23,7 +23,3 @@ A arquitetura escolhida para solucionar o laboratório com robustez e eficiênci
 - **Economia Drástica de Tokens:** Redução de milhares de tokens de marcação HTML desnecessária.
 - **Determinismo e Velocidade:** Processamento de extração rápido e sem alucinações de dados.
 - **Foco Cognitivo:** A IA é utilizada estritamente para tarefas analíticas e de síntese de linguagem natural, aproveitando o melhor de cada paradigma computacional.
-
-## Tentativa Final com MCP e Validação da Arquitetura
-
-A tentativa final de usar o MCP falhou porque as APIs do Groq e do Gemini estouraram os limites gratuitos de tokens e de requisições diárias. Isso prova definitivamente que a **Arquitetura Híbrida** — na qual o Copilot cria código de raspagem nativa em vez de ler o DOM pela IA — é a única solução viável e escalável em planos gratuitos.
