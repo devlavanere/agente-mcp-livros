@@ -1,0 +1,13 @@
+{
+  "name": "agente-mcp-livros",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scrape selected fantasy books and export their details to Markdown",
+  "scripts": {
+    "scrape": "node scraper-bruto.js"
+  },
+  "dependencies": {
+    "puppeteer": "^25.16.0",
+    "turndown": "^7.2.0"
+  }
+}
